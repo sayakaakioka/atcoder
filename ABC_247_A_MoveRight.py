@@ -1,0 +1,1 @@
+print(format(format(int(input(), 2) >> 1, 'b'), '0>4'))
